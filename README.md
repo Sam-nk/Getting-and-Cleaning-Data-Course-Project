@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 Project Submission
 
-Contains R code, codebook, and the FinalTidyData text file for the peer graded assignment.
+Contains R code, codebook, and the FinalData text file for the peer graded assignment.
 
 ## Files:
 CodeBook.md describes the how to use all this, variables, the data, and any transformations or work that was performed to clean up the data.
